@@ -13,4 +13,10 @@ class Project {
     System.out.println("Hellow MTN");
   }
 
+public class Foo {
+    static {
+         System.out.println("Message");
+         System.exit(0);
+    } 
+}
 }
