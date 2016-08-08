@@ -12,11 +12,5 @@ class Project {
   public static void main(String[] args) {
     System.out.println("Hellow MTN");
   }
-
-public class Foo {
-    static {
-         System.out.println("Message");
-         System.exit(0);
-    } 
-}
+//new comment
 }
